@@ -1,1 +1,1 @@
-# picgo token： aeadbb8054a741d99e9406389d1dfbaf8e88f185
+# picgo token： 64e5e521c69a7b77379c39b1da27b1603258b550
